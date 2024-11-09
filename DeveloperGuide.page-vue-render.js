@@ -293,7 +293,7 @@ with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The list is empty.")]),_v(" 
 with(this){return _c('h3',{attrs:{"id":"non-functional-requirements"}},[_v("Non-Functional Requirements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#non-functional-requirements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("Should work on any "),_c('em',[_v("mainstream OS")]),_v(" as long as it has Java "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("17")]),_v(" or above installed.")]),_v(" "),_c('li',[_v("Should be able to hold up to 1000 employees without a noticeable sluggishness in performance for typical usage.")]),_v(" "),_c('li',[_v("HR staff with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse.")]),_v(" "),_c('li',[_v("The system should be able to return search within 5 seconds")]),_v(" "),_c('li',[_v("Employees' data should be easily found with a quick search")]),_v(" "),_c('li',[_v("Only authorized HR staff should have access to the data")])])}
+with(this){return _c('ol',[_c('li',[_v("Should work on any "),_c('em',[_v("mainstream OS")]),_v(" as long as it has Java "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("17")]),_v(" or above installed.")]),_v(" "),_c('li',[_v("Should be able to hold up to 1000 employees without a noticeable sluggishness in performance for typical usage.")]),_v(" "),_c('li',[_v("HR staff with above average typing speed for regular English text (i.e. not code, not system admin commands) should be able to accomplish most of the tasks faster using commands than using the mouse.")]),_v(" "),_c('li',[_v("The system should be able to return search within 5 seconds")]),_v(" "),_c('li',[_v("Employees' data should be easily found with a quick search")]),_v(" "),_c('li',[_v("Only authorized HR staff should have access to the HR Helper system")])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"glossary"}},[_v("Glossary"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#glossary","onclick":"event.stopPropagation()"}})])}
@@ -326,9 +326,9 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted d
 with(this){return _c('h2',{attrs:{"id":"planned-enhancements"}},[_v("Planned enhancements"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#planned-enhancements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_v("add enhancements here")])])}
+with(this){return _c('ol',[_c('li',[_v("HR staff can change their username and password to keep their account secure.")]),_v(" "),_c('li',[_v("HR staff can track maternity leave of up to 6 months.")]),_v(" "),_c('li',[_v("add enhancement here")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 9 Nov 2024, 22:43:27 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sat, 9 Nov 2024, 22:46:09 GMT+8]")])])])}
 }];
   
